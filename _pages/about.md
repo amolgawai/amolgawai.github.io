@@ -2,7 +2,7 @@
 permalink: /about/
 defaults:
   # _pages
-  - scope:
+    scope:
       path: ""
       type: pages
     values:
