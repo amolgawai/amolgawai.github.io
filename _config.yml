@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Amol Gawai"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tech Traveler"
   location         : "Germany"
   email            :
