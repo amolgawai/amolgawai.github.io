@@ -1,5 +1,12 @@
 ---
 permalink: /about/
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
 ---
 # About
 
