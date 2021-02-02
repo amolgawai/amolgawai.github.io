@@ -1,11 +1,12 @@
 ---
 permalink: /about/
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
+      layout: single
       author_profile: true
 ---
 # About
