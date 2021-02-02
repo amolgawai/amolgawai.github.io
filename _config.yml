@@ -126,7 +126,7 @@ author:
 
 # Site Header
 header:
-  image: /assets/images/header-main.png
+  image: "/assets/images/header-main.png"
 
 # Site Footer
 footer:
