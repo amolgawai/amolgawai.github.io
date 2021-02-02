@@ -124,6 +124,10 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pixocraphy_by_amol/"
 
+# Site Header
+header:
+  image: /assets/images/header-main.png
+
 # Site Footer
 footer:
   links:
